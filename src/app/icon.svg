@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Ply">
+  <rect width="32" height="32" rx="7" fill="#0b0a14" />
+  <!-- Three stacked sheets, front-most brightest. -->
+  <path d="M16 6 L24.5 10.5 L16 15 L7.5 10.5 Z" fill="#6d28d9" />
+  <path d="M16 11 L24.5 15.5 L16 20 L7.5 15.5 Z" fill="#8b5cf6" />
+  <path d="M16 16 L24.5 20.5 L16 25 L7.5 20.5 Z" fill="#a78bfa" />
+</svg>
